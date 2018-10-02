@@ -19,7 +19,7 @@ class StoreFront extends Component {
                 })
             })
     }
-
+cd
     render() {
         let productDisplay = this.state.products.map((element, index) => {
             return (
